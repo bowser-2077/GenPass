@@ -1,0 +1,23 @@
+{
+    "window_title": "GenPass",
+    "profile_label": "Profil :",
+    "profile_custom": "Personnalisé",
+    "profile_simple": "Simple",
+    "profile_secure": "Sécurisé",
+    "profile_ultrasecure": "Ultra sécurisé",
+    "length_label": "Longueur",
+    "lowercase": "Minuscules",
+    "uppercase": "Majuscules",
+    "digits": "Chiffres",
+    "symbols": "Symboles",
+    "generate_button": "Générer",
+    "show_button": "Afficher",
+    "copy_button": "Copier",
+    "strength_format": "Force : %p%",
+    "history_label": "Historique :",
+    "error_title": "Erreur",
+    "error_no_chars": "Choisis au moins un type de caractère.",
+    "info_title": "Info",
+    "copied_message": "Mot de passe copié dans le presse-papiers !",
+    "expired_message": "Le mot de passe a expiré après 30 secondes."
+}
