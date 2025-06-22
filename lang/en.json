@@ -1,0 +1,23 @@
+{
+    "window_title": "Password generator",
+    "profile_label": "Profile :",
+    "profile_custom": "Customized",
+    "profile_simple": "Simple",
+    "profile_secure": "Secured",
+    "profile_ultrasecure": "Ultra secured",
+    "length_label": "Lenght",
+    "lowercase": "Lowercase",
+    "uppercase": "Uppercase",
+    "digits": "Digits",
+    "symbols": "Symbols",
+    "generate_button": "Generate",
+    "show_button": "Show",
+    "copy_button": "Copy",
+    "strength_format": "Strength : %p%",
+    "history_label": "History :",
+    "error_title": "Error",
+    "error_no_chars": "Choose at least one typeface.",
+    "info_title": "Info",
+    "copied_message": "Password copied to clipboard !",
+    "expired_message": "Password expired after 30 seconds."
+}
