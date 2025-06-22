@@ -179,6 +179,7 @@ class PasswordGenerator(QWidget):
         label = QLabel("GenPass - Safe password generator\n\n"
                        "Version : 1.0\nAuthor : bowser-2077\n\n"
                        "This project is open-source and fully customisable\n"
+                       "Translated by Njoy\n"
                        "Contact : hostinfire@gmail.com")
         label.setAlignment(Qt.AlignCenter)
 
